@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_myset.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-xxhdpi\\nav_myset.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_todrawer.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-xxhdpi\\ic_todrawer.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_mymedal.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-xxhdpi\\nav_mymedal.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_mygrade.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-xxhdpi\\nav_mygrade.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_icon.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-xxhdpi\\nav_icon.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_aboutus.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-xxhdpi\\nav_aboutus.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_changeuser.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-xxhdpi\\nav_changeuser.png"
+    }
+]

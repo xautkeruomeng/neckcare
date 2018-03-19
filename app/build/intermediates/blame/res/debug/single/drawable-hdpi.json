@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stat_running.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-hdpi\\stat_running.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_group_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ssdk_oks_ptr_ptr.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-hdpi\\ssdk_oks_ptr_ptr.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_input.9.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-hdpi\\login_input.9.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_school_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_school_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_build_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_build_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_people_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_people_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tips_popup_win_bg.9.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-hdpi\\tips_popup_win_bg.9.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_airline_seat_recline_normal_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_airline_seat_recline_normal_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_search.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_alarm_on_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_alarm_on_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_directions_walk_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_directions_walk_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_local_movies_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_local_movies_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\login_more_down.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-hdpi\\login_more_down.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_touch_app_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_touch_app_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\delete_user.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-hdpi\\delete_user.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\common_loading2_0.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-hdpi\\common_loading2_0.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_swap_horiz_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_swap_horiz_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logininput.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-hdpi\\logininput.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_face_black_24dp1.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_face_black_24dp1.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_login.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-hdpi\\icon_login.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_directions_transit_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_directions_transit_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_settings_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings_black_24dp.png"
+    }
+]

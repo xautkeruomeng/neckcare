@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    >
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbartwo"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="#61aa82"
+            app:popupTheme="@style/AppTheme.PopupOverlay"
+            app:title="我的勋章"
+            app:titleTextColor="#fff"/>
+    </android.support.design.widget.AppBarLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="您的健康指数："
+                android:textSize="20sp"
+                android:textColor="@color/colorBlack"/>
+            <ImageView
+                android:id="@+id/imgStar1"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/star">
+            </ImageView>
+            <ImageView
+                android:id="@+id/imgStar2"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/star">
+            </ImageView>
+            <ImageView
+                android:id="@+id/imgStar3"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/star">
+            </ImageView>
+            <ImageView
+                android:id="@+id/imgStar4"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/nostar">
+            </ImageView>
+            <ImageView
+                android:id="@+id/imgStar5"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/nostar">
+            </ImageView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="@string/state_suggest"
+            android:textSize="20sp"
+            android:textColor="@color/colorAccent"/>
+        <TextView
+            android:id="@+id/suggestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:padding="10dp"
+            android:text=""
+            android:textSize="20sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="18dp"
+            android:text="@string/suggest_plan"
+            android:textSize="20sp"
+            android:textColor="@color/colorAccent"/>
+        <TextView
+            android:id="@+id/plan"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:padding="10dp"
+            android:text=""
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom">
+        <include layout="@layout/button" />
+    </LinearLayout>
+
+</LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\menu\\nav_menu.xml",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\menu\\nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\menu\\toolbar.xml",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\menu\\toolbar.xml"
+    }
+]

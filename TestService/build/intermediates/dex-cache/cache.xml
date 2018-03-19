@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_c988809b7c4790f94aa33c3d21159d2a98119ddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="13c037eda98af3e210c5099bd33b3528d22ffb4c">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f5df6bbc20ba21f15924ad9350b2eba1b3394d95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_364b78e9628d4bebac71a8572d14c4ae71fac3a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_eecebc61ab8952f2e8977384e109ddbb2f6d83d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25f60f5c95faad69174be1865ad02abfdddca313">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1946b95543c1c83b5b4e9463e26f15eda668e5ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="87b652cf5f76167db5cf7ea3e66f76df98c51f88">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f5df6bbc20ba21f15924ad9350b2eba1b3394d95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_24b56c63a94cca9f999cb9d8aa7f044f37bf6961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BaiduNetdiskDownload\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_61b9f28d123430a80e05916db5943f5e74f5907b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_c6cbb3f61d21a5c6c54b00278ad8e9c9867b38f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_8130e27847a38194d67ce81368ae4a6df1580cea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_2aa0889956e1ad28fcc0859779842b7b2e914533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_eecebc61ab8952f2e8977384e109ddbb2f6d83d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_237ed12a74e17e335b3efba8020186f8b43c0f23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\BaiduNetdiskDownload\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_61b9f28d123430a80e05916db5943f5e74f5907b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_364b78e9628d4bebac71a8572d14c4ae71fac3a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_c988809b7c4790f94aa33c3d21159d2a98119ddd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_24b56c63a94cca9f999cb9d8aa7f044f37bf6961\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_237ed12a74e17e335b3efba8020186f8b43c0f23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_c6cbb3f61d21a5c6c54b00278ad8e9c9867b38f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="25f60f5c95faad69174be1865ad02abfdddca313">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1946b95543c1c83b5b4e9463e26f15eda668e5ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_2aa0889956e1ad28fcc0859779842b7b2e914533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_8130e27847a38194d67ce81368ae4a6df1580cea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="13dc7131e78073bce5c90edf315c501f4c05255c">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1946b95543c1c83b5b4e9463e26f15eda668e5ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_code\TestService\TestService\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="87b652cf5f76167db5cf7ea3e66f76df98c51f88">
+        <dex dex="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f5df6bbc20ba21f15924ad9350b2eba1b3394d95\classes.dex" />
+    </item>
+
+</items>

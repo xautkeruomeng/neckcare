@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\nav_icon.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-ldpi\\nav_icon.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_todrawer.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-ldpi\\ic_todrawer.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\nav_aboutus.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-ldpi\\nav_aboutus.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\nav_mygrade.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-ldpi\\nav_mygrade.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\nav_mymedal.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-ldpi\\nav_mymedal.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\nav_changeuser.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-ldpi\\nav_changeuser.png"
+    },
+    {
+        "merged": "C:\\Android_code\\TestService\\TestService\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\nav_myset.png",
+        "source": "C:\\Android_code\\TestService\\TestService\\app\\src\\main\\res\\drawable-ldpi\\nav_myset.png"
+    }
+]

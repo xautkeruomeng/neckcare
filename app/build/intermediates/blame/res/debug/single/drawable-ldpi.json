@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_build_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_build_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_group_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_swap_horiz_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_swap_horiz_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_alarm_on_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_alarm_on_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_people_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_people_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_directions_walk_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_directions_walk_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_directions_transit_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_directions_transit_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_airline_seat_recline_normal_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_airline_seat_recline_normal_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_local_movies_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_local_movies_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_face_black_24dp1.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_face_black_24dp1.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_settings_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_school_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_school_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_touch_app_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_touch_app_black_24dp.png"
+    }
+]

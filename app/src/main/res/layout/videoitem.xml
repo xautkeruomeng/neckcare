@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="260dp"
+    android:background="@android:color/darker_gray"
+    tools:context=".MyHealthVedio" >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        >
+        <TextView
+            android:id="@+id/textView_id"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:textSize="20sp"
+            android:gravity="center_vertical"
+            android:text="颈椎痛"/>
+        <ImageView
+            android:id="@+id/imv_preview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitXY"
+            android:contentDescription="@null"
+            android:layout_below="@+id/textView_id"
+            android:background="@drawable/videoa"
+            />
+        <com.yang.testservice.TextureVideoView
+            android:id="@+id/textureview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingTop="30dp"
+            android:layout_below="@+id/textView_id" />
+        <ImageView
+            android:id="@+id/imv_video_play"
+            android:layout_width="77dp"
+            android:layout_height="77dp"
+            android:layout_centerInParent="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/play" />
+        <ProgressBar
+            android:id="@+id/pb_waiting"
+            style="?android:attr/progressBarStyleLarge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:visibility="gone" />
+        <ProgressBar
+            android:id="@+id/progress_progressbar"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="14dp"
+            android:layout_alignParentBottom="true"
+            android:background="@null"
+            android:max="100"
+            android:progress="0"
+            android:progressDrawable="@drawable/recorder_success_progress" />
+    </RelativeLayout>
+   <!-- <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom">
+        <include layout="@layout/button" />
+    </LinearLayout>-->
+</RelativeLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\menu\\back.xml",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\menu\\back.xml"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]

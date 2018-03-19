@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_changeuser"
+            android:icon="@drawable/nav_changeuser"
+            android:title="切换用户" />
+        <item
+            android:id="@+id/nav_mymedal"
+            android:icon="@drawable/nav_mymedal"
+            android:title="我的勋章" />
+        <item
+            android:id="@+id/nav_mygrade"
+            android:icon="@drawable/nav_mygrade"
+            android:title="我的成绩单" />
+        <item
+            android:id="@+id/nav_myset"
+            android:icon="@drawable/nav_myset"
+            android:title="个人设置" />
+        <item
+            android:id="@+id/nav_aboutus"
+            android:icon="@drawable/nav_aboutus"
+            android:title="关于我们" />
+    </group>
+</menu>

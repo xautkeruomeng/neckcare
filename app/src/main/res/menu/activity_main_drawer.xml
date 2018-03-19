@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <group android:checkableBehavior="single">
+        <item android:title="服务指南">
+            <menu>
+       <!-- <item
+            android:id="@+id/my_gain"
+            android:icon="@drawable/ic_school_black_24dp"
+            android:title="我的勋章" />-->
+       <!-- <item
+            android:id="@+id/my_db"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="数据库" />
+        <item
+            android:id="@+id/my_score"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="我的成绩" />-->
+        <item
+            android:id="@+id/consult"
+            android:icon="@drawable/ic_face_black_24dp1"
+            android:title="在线咨询" />
+        <item
+            android:id="@+id/my_settings"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="个人设置" />
+        <item
+            android:id="@+id/my_friendsRank"
+            android:icon="@drawable/ic_group_black_24dp"
+            android:title="好友排行" />
+        <item
+            android:id="@+id/users_manage"
+            android:icon="@drawable/ic_swap_horiz_black_24dp"
+            android:title="切换用户" />
+       <!-- <item
+            android:id="@+id/about_ours"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="关于我们" />-->
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_menu_share"
+            android:title="分享好评" />
+        <item
+            android:id="@+id/nav_send"
+            android:icon="@drawable/ic_menu_send"
+            android:title="采集数据" />
+            </menu>
+        </item>
+    </group>
+
+    <item android:title="健康指南">
+        <menu>
+            <item
+                android:id="@+id/my_health"
+                android:icon="@drawable/ic_touch_app_black_24dp"
+                android:title="图文教程" />
+            <item
+                android:id="@+id/my_health_video"
+                android:icon="@drawable/ic_local_movies_black_24dp"
+                android:title="视频教程" />
+        </menu>
+    </item>
+
+</menu>

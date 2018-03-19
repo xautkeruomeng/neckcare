@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_8498711bbd470fa9837de8c126c737941edecc43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\src\main\libs\hellocharts-library-1.5.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="700944cb3a8ce4fe543cfac1a9146a11cbf702dc">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\hellocharts-library-1.5.8_c8731425b737e68098a39188810305537f670299.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_e19ff296c7d7687c71622976840848526ff53c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\AndroidStudio\sdk\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_522cd3c17e952c454e1f450fad4cc459a9449593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\src\main\libs\httpmime-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ed8b5ee0167cb27dea55851259eb34b609f31df0">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\httpmime-4.1.2_25dbf1cc23cbc1ea6f4914a2e0ce86416cdf51c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.1_408c4300092ad7dbb78e01b2b172400c2d3f5efc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-multidex-1.0.1_fe9d29b996ad4b1ce2f14182f2deb1d67c50e880.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_0d32e90effeaa210ade26caf0c5f17afcf52d8e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_0fdb7a47d7807bd7321af9d2a72157e3b9968935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_9ba1797dfb45aefb5fb684d19aed21f22a406494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_86cfdfad0527a482250b7e4f7b32092bfc2d3fa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_0e12e664f965a97e030ceaf88f57caab03075fc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\src\main\libs\httpclient-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9003011c1b6d28a7331f04251a25e7ccf63c98f8">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\httpclient-4.1.2_8514d26e84e7969548b355112915b4f2d644cf34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_8d9f8155b6b8639f5c0f79a39112768429cf0570.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.1_2166124fb080647c6244015e1c7d0e63756e8e28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_c3797f21982af348667c240f1518937531ccd68d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.1_03d6eb93c0cdbaa9c8d7b09998d93b2a29d03a9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\build\intermediates\exploded-aar\org.litepal.android\core\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2ed5d8f90fadbfa1098d859cda836de0dc31d265">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\org.litepal.android-core-1.4.1_99a624ae69063f5a73d2d64324f42d9487b1d98e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\NeckCare\TestServiceb\app\src\main\libs\httpcore-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="50d62373255daf8fa4f21ce381683ed64a3a95b8">
+        <dex dex="D:\NeckCare\TestServiceb\app\build\intermediates\pre-dexed\debug\httpcore-4.0_482a3c13a69aa8a9f34d40cf3d69a1747e4f7416.jar" />
+    </item>
+
+</items>

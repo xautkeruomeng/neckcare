@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="neckCare"></dbname>
+    <version value="17"></version>
+
+    <!--用于指定映射模型-->
+    <list>
+        <!--mapping标签来声明要配置的映射模型类-->
+        <mapping class="com.yang.database.Accounts"></mapping>
+        <mapping class="com.yang.database.Actionlogs"></mapping>
+        <mapping class="com.yang.database.Activitystate"></mapping>
+        <mapping class="com.yang.database.Dayneckstate"></mapping>
+        <mapping class="com.yang.database.Neckstate"></mapping>
+    </list>
+</litepal>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="36792531379055"
+    token="1476975137136958840"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="31273358851374"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="35633730889964"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.2.0_eecebc61ab8952f2e8977384e109ddbb2f6d83d5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.0_c6cbb3f61d21a5c6c54b00278ad8e9c9867b38f4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.0_364b78e9628d4bebac71a8572d14c4ae71fac3a9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f5df6bbc20ba21f15924ad9350b2eba1b3394d95\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.2.0_237ed12a74e17e335b3efba8020186f8b43c0f23\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.0_24b56c63a94cca9f999cb9d8aa7f044f37bf6961\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.0_8130e27847a38194d67ce81368ae4a6df1580cea\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.0_2aa0889956e1ad28fcc0859779842b7b2e914533\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.0_61b9f28d123430a80e05916db5943f5e74f5907b\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_c988809b7c4790f94aa33c3d21159d2a98119ddd\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1946b95543c1c83b5b4e9463e26f15eda668e5ec\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Android_code\TestService\TestService\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="36792531379055"
+        verifier="COLD_SWAP_REQUESTED" />
+
+</instant-run>

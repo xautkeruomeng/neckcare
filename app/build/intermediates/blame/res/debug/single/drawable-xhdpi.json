@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_airline_seat_recline_normal_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_airline_seat_recline_normal_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaotalk.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_dropbox.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_flickr.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_flickr.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_shortmessage.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_line.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_line.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwang.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_vkontakte.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechat.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechat.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kaixin.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_dingding.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_dingding.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_linkedin.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\btn_lightgreen_bg.9.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\btn_lightgreen_bg.9.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qzone.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qzone.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_people_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_people_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_auth_title_back.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_auth_title_back.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_qq.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_qq.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_face_black_24dp1.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_face_black_24dp1.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_youdao.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_youdao.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_settings_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_title_div.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_title_div.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_douban.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_douban.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_youtube.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_youtube.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_alarm_on_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_alarm_on_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\girl.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\girl.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebookmessenger.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatfavorite.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_email.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_email.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_sinaweibo.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_yixin.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixin.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_back_arr.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_back_arr.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_build_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_build_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_country_sharesdk_icon.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_country_sharesdk_icon.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_country_clear_search.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_country_clear_search.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_evernote.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_evernote.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_checked.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_logo.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_logo.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_touch_app_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_touch_app_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_meipai.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_meipai.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tencentweibo.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_directions_walk_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_directions_walk_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_check_default.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_check_default.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_yixinmoments.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\man.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\man.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_directions_transit_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_directions_transit_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_weibo_common_shadow_top.9.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_weibo_common_shadow_top.9.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_facebook.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_facebook.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_school_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_school_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_swap_horiz_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_swap_horiz_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_googleplus.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_search.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_twitter.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_twitter.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_input_bg_focus.9.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_input_bg_focus.9.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_weibo_empty_failed.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_weibo_empty_failed.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_wechatmoments.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_country_cl_divider.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_country_cl_divider.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_country_back_arrow.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_country_back_arrow.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_laiwangmoments.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_foursquare.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_tumblr.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instapaper.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_instagram.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_instagram.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_kakaostory.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_telegram.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_telegram.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_alipaymoments.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipaymoments.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\play.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pinterest.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_whatsapp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_bluetooth.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_alipay.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_alipay.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_country_search_icon.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_country_search_icon.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_group_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_group_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_pocket.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_pocket.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_local_movies_black_24dp.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_local_movies_black_24dp.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_renren.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_renren.png"
+    },
+    {
+        "merged": "D:\\NeckCare\\TestServiceb\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png",
+        "source": "D:\\NeckCare\\TestServiceb\\app\\src\\main\\res\\drawable-xhdpi\\ssdk_oks_classic_mingdao.png"
+    }
+]
